@@ -1,0 +1,25 @@
+.newtask-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75px;
+}
+.newtask-con > input {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.newtask-con > button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #0270ff;
+  cursor: pointer;
+  color: #fff;
+  width: 50px;
+}
+.newtask-con > button:hover {
+  background-color: #0159d6;
+}

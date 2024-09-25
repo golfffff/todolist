@@ -1,0 +1,28 @@
+.tdl-container {
+  width: 80%;
+  margin: auto;
+}
+.filter-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.filter-con > input {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.filter-con > label {
+  margin: 0 10px;
+}
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 4px;
+  margin-left: 10px;
+}
